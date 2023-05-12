@@ -1,2 +1,5 @@
-RushilShah_resume.pages
-.DS_Store
+*
+*.*
+!README.md
+!RushilShah_resume.pages
+
