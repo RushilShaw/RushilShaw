@@ -22,6 +22,8 @@ I have experience in various programming languages such as Python, Java, C, Kotl
 
 ## Hobbies
 
-I really like tennis. I play in a local league and attended the US Tennis Open last year. I also really like going to the gym, playing golf with friends, and competing in chess. Every winter I go snowboarding in Utah.  
+I play in my local tennis league every summer, and had the wonderful oppertunity to attend the US Open this year.
 
-Thank you for taking the time to read my profile.
+I like playing chess and have been playing since kindergarden.
+
+My favorite place to go is Park City, Utah where I have a great time snowboard and hit the slopes almost every year.
